@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oodehaefoz.geekmentalhelp.com/sitemap.xml
